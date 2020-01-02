@@ -1,3 +1,9 @@
 require_relative '../config/environment'
 
-puts "hello world"
+
+# Spotify.load_test_data
+
+Spotify.new.home
+
+
+# puts "hello world"
